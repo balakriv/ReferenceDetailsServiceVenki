@@ -1,4 +1,4 @@
-ReferenceDetailsServiceVenki
+ReferenceDetailsServiceVenkiDog
 ============================
 
 Replication of ReferenceDetailsService
